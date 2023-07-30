@@ -2,7 +2,7 @@
 
 ## 🚀 Heroku Deployment
 ###### Click the button below to deploy on Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rommelnita/Telegram-members-adder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/TGX)
 
 ## 🚀 Okteto Deployment
 ###### Click the button below to deploy on Okteto!
@@ -16,4 +16,4 @@
 ## Credit
 
 
-[VIP BOY ](https://github.com/The_Vip_Boy)
+[𝐃𝐀𝐗𝐗](https://github.com/DAXXSIR3)
