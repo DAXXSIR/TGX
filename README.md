@@ -1,3 +1,13 @@
+### ❤️‍🔥𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒❣️
+
+<!--
+**DAXXSIR/DAXXSIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXSIR/count.svg" />
+</p>
 # Deploy Method
 
 ## 🚀 Heroku Deployment
