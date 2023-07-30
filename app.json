@@ -1,6 +1,6 @@
 {
   "logo":"https://telegra.ph/file/91003e77f23a2f2a03229.jpg",
-  "name": " Member Adder",
+  "name": " Daxx Member Adder Bot",
   "description": "A member adder bot for telegram.",
   "env": {
     "BOT_TOKEN": {
@@ -9,11 +9,11 @@
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
+      "value": "25450075"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
+      "value": "278e22b00d6dd565c837405eda49e6f2"
     }
   },
   "buildpacks": [{
