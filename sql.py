@@ -1,4 +1,4 @@
-#  !/usr/bin/env python
+#  !/usr/bin/env python3
 #  -*- coding: utf-8 -*-
 #  Name     : broadcast-bot [ Telegram ]
 #  Repo     : https://github.com/m4mallu/broadcast-bot
