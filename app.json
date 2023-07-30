@@ -1,6 +1,6 @@
 {
   "logo":"https://telegra.ph/file/91003e77f23a2f2a03229.jpg",
-  "name": "𝐃𝐀𝐗𝐗 Member Adder",
+  "name": " Member Adder",
   "description": "A member adder bot for telegram.",
   "env": {
     "BOT_TOKEN": {
@@ -17,6 +17,6 @@
     }
   },
   "buildpacks": [{
-    "url": "https://github.com/heroku/heroku-buildpack-python-git"
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
   }]
 }
