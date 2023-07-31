@@ -49,7 +49,7 @@ async def Subscribe(lel, message):
       try:
          user = await app.get_chat_member(update_channel, message.chat.id)
          if user.status == "kicked":
-            await app.send_message(chat_id=message.chat.id,text="Sorry Sir, You are Banned. Contact My [Support Group](https://t.me/DevilsHaveli).", parse_mode="markdown", disable_web_page_preview=True)
+            await app.send_message(chat_id=message.chat.id,text="Sorry Sir, You are Banned. Contact My [Support Group](https://t.me/DevilsHaveliMF).", parse_mode="markdown", disable_web_page_preview=True)
             return 1
       except UserNotParticipant:
          await app.send_message(chat_id=message.chat.id, text="**Please Join My Updates Channel To Use Me!\n and click on to Check /start**", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🤖 Join Updates Channel 🤖", url=f"https://t.me/{update_channel}")]]), parse_mode="markdown")
